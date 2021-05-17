@@ -1,1 +1,2 @@
-console.log("Prueba");
+let Roja = "Lucia"
+console.log(Roja)
